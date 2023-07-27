@@ -1,0 +1,15 @@
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\Task_54.csproj.AssemblyReference.cache
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\Task_54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfoInputs.cache
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfo.cs
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\Task_54.csproj.CoreCompileInputs.cache
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\bin\Debug\net6.0\Task_54.exe
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\bin\Debug\net6.0\Task_54.deps.json
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\bin\Debug\net6.0\Task_54.runtimeconfig.json
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\bin\Debug\net6.0\Task_54.dll
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\bin\Debug\net6.0\Task_54.pdb
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\Task_54.dll
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\refint\Task_54.dll
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\Task_54.pdb
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\Task_54.genruntimeconfig.cache
+D:\Hyb\GB\C#\DZ_8\DZ_8\Task_54\obj\Debug\net6.0\ref\Task_54.dll
